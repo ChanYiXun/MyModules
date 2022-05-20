@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="MN1">Module Name: Android Programming</string>
+    <string name="MN2">Module Name: iPad Programming</string>
+    <string name="AY">Academic Year: 2020 </string>
+    <string name="Sem">Semester: 1 </string>
+    <string name="Mod_cred">Modular Credit: 4</string>
+    <string name="V">Venue: W66M </string>
+</resources>

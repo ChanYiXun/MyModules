@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7C7777"
+    android:orientation="vertical"
+    tools:context=".ModuleDetails">
+
+    <TextView
+        android:id="@+id/tvID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="id "
+        android:textColor=" #39FF14" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="name "
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AY"
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvST"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="start time"
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="end time"
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvSem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Sem"
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvMC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Mod_cred"
+        android:textColor=" #39FF14"/>
+
+    <TextView
+        android:id="@+id/tvVenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/V"
+        android:textColor=" #39FF14"/>
+
+</LinearLayout>
